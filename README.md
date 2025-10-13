@@ -23,8 +23,8 @@
 
 ---
 
-## 🎯 Goals for 2025
-- Complete my first **internship experience** in software or game development  
+## 🎯 Goals for 2026
+- Complete my first **internship experience** 
 - Improve in **C++**, **C#**, and **database design**  
 - Publish open-source projects to strengthen my portfolio  
 
