@@ -17,7 +17,7 @@
 
 ## 🚀 What I'm Working On
 - Developing small games using **Godot Engine**  
-- Learning **C++** and **C#** for advanced gameplay systems  
+- Learning **C++** and **C#**
 - Exploring **AI applications** and **FinTech technologies**  
 - Building a solid foundation in **software systems and architecture**
 
