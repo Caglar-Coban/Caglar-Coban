@@ -16,17 +16,11 @@
 ---
 
 ## 🚀 What I'm Working On
-- Developing small games using **Godot Engine**  
+- Developing small games using **Unity**  
 - Learning **C++** and **C#**
 - Exploring **AI applications** and **FinTech technologies**  
 - Building a solid foundation in **software systems and architecture**
 
----
-
-## 🎯 Goals for 2026
-- Complete my first **internship experience** 
-- Improve in **C++**, **C#**, and **database design**  
-- Publish open-source projects to strengthen my portfolio  
 
 ---
 
