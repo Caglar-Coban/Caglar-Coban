@@ -54,7 +54,7 @@
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,csharp,rust,js" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cs,rust,js" />
 
 *(Also experienced with Assembly, GDScript, and SQL)*
 
