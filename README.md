@@ -16,10 +16,10 @@
 
 | Alan | Detay |
 |---|---|
-| Kendimi Tanıtayım | 👋 Merhaba, ben **Çağlar Çoban**, İzmir doğumlu, Koç Üniversitesi bağlantılı bir mühendislik/işletme öğrencisiyim 🇹🇷 |
+| Kendimi Tanıtayım | 👋 Merhaba, ben **Çağlar Çoban**, Koç Üniversitesi bağlantılı bir mühendislik/işletme öğrencisiyim |
 | Ünvan | Bilgisayar Mühendisliği ve İşletme Çift Anadal Öğrencisi |
 | Şu An | Mage Games'te stajyer (1–29 Temmuz 2026) |
-| Konum | İzmir, Türkiye |
+| Konum | İstanbul, Türkiye |
 | Odak | Derinlemesine öğrenmeye ve verimli inşa etmeye odaklanmış; yapay zeka, finansal teknolojiler ve oyun geliştirme alanlarına tutkulu bir mühendis/işletmeci adayı |
 
 ---
