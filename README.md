@@ -1,34 +1,87 @@
-# 👋 Hi, I'm Çağlar Çoban
+<h1 align="center">Merhaba, ben Çağlar 👋</h1>
 
-🎓 I'm a **Computer Engineering student (2nd year, irregular)** at **Koç University**, also pursuing a **double major in Business Administration**.  
-💡 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Game Development**, **Blockchain**, and **Financial Technologies**.  
-🌱 I’m constantly improving my programming skills and exploring how intelligent systems can integrate with sustainable technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Caglar-Coban&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Caglar-Coban?tab=followers"><img src="https://img.shields.io/github/followers/Caglar-Coban?label=Followers&style=flat-square&color=blue" /></a>
+  <a href="https://github.com/Caglar-Coban?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=success&label=Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCaglar-Coban%2Fstarred&style=flat-square" /></a>
+</p>
 
----
-
-## 🧠 Tech Stack
-
-**Languages:** C, Python, Java, Assembly, GDScript  
-**Currently Learning:** C++, C#, SQL  
-**Tools & Environments:** Linux, Vim, Git, GitHub  
-**Interests:** Game Development, AI, FinTech, Blockchain
+<p align="center">
+  Bilgisayar Mühendisliği & İşletme Çift Anadal Öğrencisi | Koç Üniversitesi | Mage Games'te Stajyer
+</p>
 
 ---
 
-## 🚀 What I'm Working On
-- Developing small games using **Unity**  
-- Learning **C++** and **C#**
-- Exploring **AI applications** and **FinTech technologies**  
-- Building a solid foundation in **software systems and architecture**
+## 📖 Hakkımda
 
-
----
-
-## 📫 Contact Me
-- **Email:** caglarrcobann@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/caglar-coban/
-- **GitHub:** https://github.com/Caglar-Coban
+| Alan | Detay |
+|---|---|
+| Kendimi Tanıtayım | 👋 Merhaba, ben **Çağlar Çoban**, İzmir doğumlu, Koç Üniversitesi bağlantılı bir mühendislik/işletme öğrencisiyim 🇹🇷 |
+| Ünvan | Bilgisayar Mühendisliği ve İşletme Çift Anadal Öğrencisi |
+| Şu An | Mage Games'te stajyer (1–29 Temmuz 2026) |
+| Konum | İzmir, Türkiye |
+| Odak | Derinlemesine öğrenmeye ve verimli inşa etmeye odaklanmış; yapay zeka, finansal teknolojiler ve oyun geliştirme alanlarına tutkulu bir mühendis/işletmeci adayı |
 
 ---
 
-> “Focused on learning deeply and building efficiently.”
+## 🚀 Son Projeler
+
+| # | Proje | Açıklama |
+|---|---|---|
+| 1 | **Unity Mini Oyunları** | GDScript ve C# kullanarak geliştirdiğim güncel oyun projeleri (Mage Games Trivia Quest Case Study kapsamında) |
+| 2 | **DotConvert** | Tauri, React ve Rust ile geliştirmeye başladığım masaüstü dönüştürme aracı |
+| 3 | **Islander Court Simulation** | Staj vaka çalışması için yazdığım, çok adımlı Java simülasyonu |
+
+---
+
+## ✍️ Blog
+
+📝 Yazılarımı [Medium](https://medium.com/@caglarrcobann) üzerinden takip edebilirsin.
+
+---
+
+## 📬 İletişim
+
+<p align="left">
+  <a href="mailto:caglarrcobann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/caglar-coban/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@caglarrcobann"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Diller ve Araçlar
+
+**Programlama Dilleri**
+
+<img src="https://skillicons.dev/icons?i=java,python,c,csharp,rust,js" />
+
+*(Ayrıca Assembly, GDScript ve SQL deneyimim de var)*
+
+**Framework & Araçlar**
+
+<img src="https://skillicons.dev/icons?i=unity,linux,vim,git,github,react" />
+
+*(Ayrıca JavaFX ve Tauri ile de projelerim var)*
+
+**Veritabanları**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+> 🎨 Arayüz tasarımında koyu temalı ve minimalist yaklaşımları tercih ediyorum, asset üretiminde yapay zeka araçlarını aktif olarak kullanıyorum.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caglar-Coban&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caglar-Coban&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglar-Coban&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
