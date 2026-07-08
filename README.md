@@ -34,12 +34,6 @@
 
 ---
 
-## ✍️ Blog
-
-📝 Follow my writing on [Medium](https://medium.com/@caglarrcobann).
-
----
-
 ## 📬 Get in Touch
 
 <p align="left">
