@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Çağlar 👋</h1>
+<h1 align="center">Hi, I'm Çağlar 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Caglar-Coban&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -7,40 +7,40 @@
 </p>
 
 <p align="center">
-  Bilgisayar Mühendisliği & İşletme Çift Anadal Öğrencisi | Koç Üniversitesi | Mage Games'te Stajyer
+  Computer Engineering & Business Double Major Student | Koç University | Intern at Mage Games
 </p>
 
 ---
 
-## 📖 Hakkımda
+## 📖 About Me
 
-| Alan | Detay |
+| Field | Details |
 |---|---|
-| Kendimi Tanıtayım | 👋 Merhaba, ben **Çağlar Çoban**, Koç Üniversitesi bağlantılı bir mühendislik/işletme öğrencisiyim |
-| Ünvan | Bilgisayar Mühendisliği ve İşletme Çift Anadal Öğrencisi |
-| Şu An | Mage Games'te stajyer (1–29 Temmuz 2026) |
-| Konum | İstanbul, Türkiye |
-| Odak | Derinlemesine öğrenmeye ve verimli inşa etmeye odaklanmış; yapay zeka, finansal teknolojiler ve oyun geliştirme alanlarına tutkulu bir mühendis/işletmeci adayı |
+| Introduce Myself | 👋 Hi, I'm **Çağlar Çoban**, an engineering/business student connected to Koç University |
+| Title | Computer Engineering and Business Double Major Student |
+| Currently | Interning at Mage Games (July 1–29, 2026) |
+| Location | Istanbul, Turkey |
+| Focus | Focused on deep learning and building efficiently; an aspiring engineer/business professional passionate about AI, fintech, and game development |
 
 ---
 
-## 🚀 Son Projeler
+## 🚀 Latest Projects
 
-| # | Proje | Açıklama |
+| # | Project | Description |
 |---|---|---|
-| 1 | **Unity Mini Oyunları** | GDScript ve C# kullanarak geliştirdiğim güncel oyun projeleri (Mage Games Trivia Quest Case Study kapsamında) |
-| 2 | **DotConvert** | Tauri, React ve Rust ile geliştirmeye başladığım masaüstü dönüştürme aracı |
-| 3 | **Islander Court Simulation** | Staj vaka çalışması için yazdığım, çok adımlı Java simülasyonu |
+| 1 | **Unity Mini Games** | Current game projects I'm building using GDScript and C# (as part of the Mage Games Trivia Quest case study) |
+| 2 | **DotConvert** | A desktop conversion tool I started building with Tauri, React, and Rust |
+| 3 | **Islander Court Simulation** | A multi-step Java simulation I wrote for an internship case study |
 
 ---
 
 ## ✍️ Blog
 
-📝 Yazılarımı [Medium](https://medium.com/@caglarrcobann) üzerinden takip edebilirsin.
+📝 Follow my writing on [Medium](https://medium.com/@caglarrcobann).
 
 ---
 
-## 📬 İletişim
+## 📬 Get in Touch
 
 <p align="left">
   <a href="mailto:caglarrcobann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -50,33 +50,30 @@
 
 ---
 
-## 🛠️ Diller ve Araçlar
+## 🛠️ Languages & Tools
 
-**Programlama Dilleri**
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,c,csharp,rust,js" />
 
-*(Ayrıca Assembly, GDScript ve SQL deneyimim de var)*
+*(Also experienced with Assembly, GDScript, and SQL)*
 
-**Framework & Araçlar**
+**Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=unity,linux,vim,git,github,react" />
 
-*(Ayrıca JavaFX ve Tauri ile de projelerim var)*
+*(Also have experience with JavaFX and Tauri)*
 
-**Veritabanları**
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
->  Yapay zeka araçlarını aktif olarak kullanıyorum.
+> Actively using AI tools in my workflow.
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caglar-Coban&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Caglar-Coban&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
