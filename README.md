@@ -75,12 +75,8 @@
 ## 📊 GitHub İstatistiklerim
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caglar-Coban&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caglar-Coban&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglar-Coban&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
