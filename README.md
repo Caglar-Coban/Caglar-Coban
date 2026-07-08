@@ -68,7 +68,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-> 🎨 Arayüz tasarımında koyu temalı ve minimalist yaklaşımları tercih ediyorum, asset üretiminde yapay zeka araçlarını aktif olarak kullanıyorum.
+>  Yapay zeka araçlarını aktif olarak kullanıyorum.
 
 ---
 
