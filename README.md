@@ -69,5 +69,5 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caglar-Coban&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Caglar-Coban&theme=tokyonight&v=1" alt="GitHub Streak" />
 </p>
