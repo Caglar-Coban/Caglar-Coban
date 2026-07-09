@@ -69,5 +69,5 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Caglar-Coban&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.macreja.com/?user=Caglar-Coban&theme=tokyonight" alt="GitHub Streak" />
 </p>
