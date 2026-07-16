@@ -48,15 +48,12 @@
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cs,rust,js" />
-
-*(Also experienced with Assembly, GDScript, and SQL)*
+<img src="https://skillicons.dev/icons?i=java,python,c,cs,js" />
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=unity,linux,vim,git,github,react" />
-
-*(Also have experience with JavaFX and Tauri)*
+<img src="https://skillicons.dev/icons?i=unity,linux,vim,git,github" />
+<img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white" alt="JavaFX" />
 
 **Databases**
 
