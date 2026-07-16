@@ -28,7 +28,7 @@
 
 | # | Project | Description |
 |---|---|---|
-| 1 | **Unity Mini Games** | Current game projects I'm building using GDScript and C# (as part of the Mage Games Trivia Quest case study) |
+| 1 | **Unity Mini Games** | Current game projects I'm building using C# (as part of the Mage Games Trivia Quest case study) |
 | 2 | **DotConvert** | A desktop conversion tool I started building with Tauri, React, and Rust |
 | 3 | **Islander Court Simulation** | A multi-step Java simulation I wrote for an internship case study |
 
@@ -53,7 +53,6 @@
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=unity,godot,linux,vim,git,github" />
-<img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white" alt="JavaFX" />
 
 **Databases**
 
