@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering & Business Double Major Student | Koç University | Intern at Mage Games
+  Computer Engineering & Business Double Major Student | Koç University |
 </p>
 
 ---
@@ -18,7 +18,7 @@
 |---|---|
 | Introduce Myself | 👋 Hi, I'm **Çağlar Çoban**, an engineering/business student connected to Koç University |
 | Title | Computer Engineering and Business Double Major Student |
-| Currently | Interning at Mage Games (July 1–29, 2026) |
+| Currently |  |
 | Location | Istanbul, Turkey |
 | Focus | Focused on deep learning and building efficiently; an aspiring engineer/business professional passionate about AI, fintech, and game development |
 
