@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering & Business Double Major Student | Koç University |
+  Computer Engineering & Business Double Major Student | Koç University | Intern at Vakıfbank
 </p>
 
 ---
@@ -18,7 +18,7 @@
 |---|---|
 | Introduce Myself | 👋 Hi, I'm **Çağlar Çoban**, an engineering/business student connected to Koç University |
 | Title | Computer Engineering and Business Double Major Student |
-| Currently |  |
+| Currently | Intern at Vakıfbank |
 | Location | Istanbul, Turkey |
 | Focus | Focused on deep learning and building efficiently; an aspiring engineer/business professional passionate about AI, fintech, and game development |
 
